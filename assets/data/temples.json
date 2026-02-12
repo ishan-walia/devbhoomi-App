@@ -1,1 +1,80 @@
+[
+  {
+    "name": "Bhootnath Temple",
+    "district": "Mandi",
+    "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/Bhootnath.jpg",
+    "history": "Built in 1527, dedicated to Lord Shiva. Famous for Shivratri festival.",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bhootnath+Temple+Mandi"
+  },
+  {
+    "name": "Mata Hidimba Devi Temple",
+    "district": "Manali",
+    "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/hidimbadevi.png",
+    "history": "Ancient cave temple dedicated to Hidimba Devi in Manali.",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Hidimba+Temple+Manali"
+  },
+  {
+    "name": "Bada Dev - Kamrunag Temple",
+    "district": "KamruNag",
+    "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/kamrunag.jpg",
+    "history": "The Kamrunag Temple, located near Mandi in Himachal Pradesh, is an ancient shrine dedicated to King Yaksha (or Barbarik), a revered Mahabharata-era warrior believed to be the son of Ghatotkacha and grandson of Bhima.",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kamrunag+Temple+KamruNag"
+  },
+  {
+    "name": "Prashar Lake Temple",
+    "district": "Mandi",
+    "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/PrashakLake.jpg",
+    "history": "Legend suggests the lake was created when Rishi Prashar struck his rod into the ground.",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=PrasharLake+Temple+Mandi"
+  },
+  {
+    "name": "Mata Shree Naina Devi Temple",
+    "district": "Rewalsar",
+    "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/naina maa.jpg",
+    "history": "Legend suggests the lake was created when Rishi Prashar struck his rod into the ground.",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Mata Shree Naina Devi+Temple+Rewalsar+Mandi"
+  },
+  {
+    "name": "Padmasambhava Cave",
+    "district": "Rewalsar",
+    "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/rewalr.jpg",
+    "history": "Legend suggests the lake was created when Rishi Prashar struck his rod into the ground.",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Padmasambhava Cave+Temple+Rewalsar+Mandi"
+  },
+  {
+    "name": "Bala Kameshwar Ji Temple",
+    "district": "Rewalsar",
+    "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/balakameshwar.jpg",
+    "history": "Legend suggests the lake was created when Rishi Prashar struck his rod into the ground.",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Padmasambhava Cave+Temple+Rewalsar+Mandi"
+  },
+  {
+    "name": "Mata Bhimakali Devi Temple",
+    "district": "Mandi",
+    "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/bhimakali temple.webp",
+    "history": "Legend suggests the lake was created when Rishi Prashar struck his rod into the ground.",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Padmasambhava Cave+Temple+Rewalsar+Mandi"
+  },
+  {
+    "name": "Mata Hanogi Devi Temple",
+    "district": "Mandi",
+    "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/Hanogi_Mata.jpg",
+    "history": "Legend suggests the lake was created when Rishi Prashar struck his rod into the ground.",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Hanogi_Mata+Temple+Kullu+HP"
+  },
+  {
+    "name": "Jai Bijlimahadev Temple",
+    "district": "Mandi",
+    "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/bijlimahadev.webp",
+    "history": "Legend suggests the lake was created when Rishi Prashar struck his rod into the ground.",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Hanogi_Mata+Temple+Kullu+HP"
+  },
+  {
+    "name": "Jai Baglamukhi devi Temple",
+    "district": "Mandi",
+    "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/baglamukhi.jpeg",
+    "history": "Legend suggests the lake was created when Rishi Prashar struck his rod into the ground.",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=baglamukhi+Temple+Kangera+HP"
+  }
+]
 
