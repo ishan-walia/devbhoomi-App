@@ -49,13 +49,6 @@
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=Padmasambhava Cave+Temple+Rewalsar+Mandi"
   },
   {
-    "name": "Mata Bhimakali Devi Temple",
-    "district": "Mandi",
-    "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/bhimakali temple.webp",
-    "history": "Legend suggests the lake was created when Rishi Prashar struck his rod into the ground.",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Padmasambhava Cave+Temple+Rewalsar+Mandi"
-  },
-  {
     "name": "Mata Hanogi Devi Temple",
     "district": "Mandi",
     "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/Hanogi_Mata.jpg",
@@ -63,18 +56,24 @@
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=Hanogi_Mata+Temple+Kullu+HP"
   },
   {
-    "name": "Jai Bijlimahadev Temple",
-    "district": "Mandi",
-    "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/bijlimahadev.webp",
-    "history": "Legend suggests the lake was created when Rishi Prashar struck his rod into the ground.",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Hanogi_Mata+Temple+Kullu+HP"
-  },
-  {
-    "name": "Jai Baglamukhi devi Temple",
-    "district": "Mandi",
-    "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/baglamukhi.jpeg",
-    "history": "Legend suggests the lake was created when Rishi Prashar struck his rod into the ground.",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=baglamukhi+Temple+Kangera+HP"
-  }
-]
+  "name": "Mata Bhimakali Devi Temple",
+  "district": "Shimla",
+  "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/bhimakali_temple.webp",
+  "history": "Bhimakali Temple in Sarahan is a famous shrine dedicated to Goddess Bhimakali, considered one of the 51 Shakti Peethas. Built in traditional Himalayan architecture, the temple is known for its spiritual power and beautiful mountain surroundings.",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bhimakali+Temple+Sarahan"
+},
+{
+  "name": "Jai Bijlimahadev Temple",
+  "district": "Kullu",
+  "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/bijlimahadev.webp",
+  "history": "Bijli Mahadev Temple is dedicated to Lord Shiva and located on a hilltop in Kullu Valley. The temple is famous for a unique ritual where lightning strikes the Shiva Lingam, which priests later restore using butter.",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bijli+Mahadev+Temple+Kullu"
+},
+{
+  "name": "Jai Baglamukhi Devi Temple",
+  "district": "Kangra",
+  "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/baglamukhi.jpeg",
+  "history": "Baglamukhi Temple in Kangra is dedicated to Goddess Baglamukhi, one of the ten Mahavidyas. Devotees visit this temple seeking victory, protection from enemies, and spiritual strength.",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Baglamukhi+Temple+Kangra"
+}
 
