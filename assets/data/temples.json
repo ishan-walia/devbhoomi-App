@@ -103,5 +103,26 @@
     "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/ardhnarishwar.jpg",
     "history": "Baglamukhi Temple in Kangra is dedicated to Goddess Baglamukhi and is believed to grant victory and protection.",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ardhanarishwar Mahadev+Temple+Mandi"
+  },
+   {
+    "name": "Jai Mata Bajreshwari Mata Temple ",
+    "district": "Mandi  ",
+    "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/ShreeBajreshwari.jpg",
+    "history": "Baglamukhi Temple in Kangra is dedicated to Goddess Baglamukhi and is believed to grant victory and protection.",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ardhanarishwar Mahadev+Temple+Mandi"
+  },
+  {
+    "name": "Jai  Mata Jwala Devi Temple ",
+    "district": "Mandi  ",
+    "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/jwaladevi.jpg",
+    "history": "Baglamukhi Temple in Kangra is dedicated to Goddess Baglamukhi and is believed to grant victory and protection.",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Jai  Mata Jwala Devi+Temple+Mandi"
+  },
+  {
+    "name": "Jai Mata Chamunda Devi Temple ",
+    "district": "Mandi  ",
+    "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/chamundadevi.jpg",
+    "history": "Baglamukhi Temple in Kangra is dedicated to Goddess Baglamukhi and is believed to grant victory and protection.",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Jai Mata Chamunda Devi+Temple+Mandi"
   }
 ]
