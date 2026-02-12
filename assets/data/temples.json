@@ -3,7 +3,9 @@
     "name": "Bhootnath Temple",
     "district": "Mandi",
     "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/Bhootnath.jpg",
-    "history": "Bhootnath Temple is one of the oldest and most famous temples in Mandi, Himachal Pradesh.It was built in 1527 by Raja Ajbar Sen, the founder of Mandi city.",
+    "history": "Bhootnath Temple is one of the oldest and most famous temples in Mandi, Himachal Pradesh. It was built in 1527 by Raja Ajbar Sen, the founder of Mandi city.",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bhootnath+Temple+Mandi"
+  },
   {
     "name": "Mata Hidimba Devi Temple",
     "district": "Manali",
@@ -15,63 +17,63 @@
     "name": "Bada Dev - Kamrunag Temple",
     "district": "KamruNag",
     "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/kamrunag.jpg",
-    "history": "The Kamrunag Temple, located near Mandi in Himachal Pradesh, is an ancient shrine dedicated to King Yaksha (or Barbarik), a revered Mahabharata-era warrior believed to be the son of Ghatotkacha and grandson of Bhima.",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kamrunag+Temple+KamruNag"
+    "history": "The Kamrunag Temple near Mandi is dedicated to King Yaksha (Barbarik), believed to be the grandson of Bhima.",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kamrunag+Temple+Himachal"
   },
   {
     "name": "Prashar Lake Temple",
     "district": "Mandi",
     "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/PrashakLake.jpg",
-    "history": "Legend suggests the lake was created when Rishi Prashar struck his rod into the ground.",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=PrasharLake+Temple+Mandi"
+    "history": "Legend says the lake was created when Rishi Prashar struck the ground with his staff.",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Prashar+Lake+Temple"
   },
   {
     "name": "Mata Shree Naina Devi Temple",
     "district": "Rewalsar",
-    "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/naina maa.jpg",
-    "history": "Legend suggests the lake was created when Rishi Prashar struck his rod into the ground.",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Mata Shree Naina Devi+Temple+Rewalsar+Mandi"
+    "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/naina_maa.jpg",
+    "history": "Naina Devi Temple near Rewalsar is a sacred shrine dedicated to Goddess Naina Devi and is visited by devotees for blessings and protection.",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Naina+Devi+Temple+Rewalsar"
   },
   {
     "name": "Padmasambhava Cave",
     "district": "Rewalsar",
     "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/rewalr.jpg",
-    "history": "Legend suggests the lake was created when Rishi Prashar struck his rod into the ground.",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Padmasambhava Cave+Temple+Rewalsar+Mandi"
+    "history": "Padmasambhava Cave is a sacred Buddhist meditation site associated with Guru Padmasambhava.",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Padmasambhava+Cave+Rewalsar"
   },
   {
     "name": "Bala Kameshwar Ji Temple",
     "district": "Rewalsar",
     "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/balakameshwar.jpg",
-    "history": "Legend suggests the lake was created when Rishi Prashar struck his rod into the ground.",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Padmasambhava Cave+Temple+Rewalsar+Mandi"
+    "history": "Bala Kameshwar Temple is dedicated to Lord Shiva and is known for its peaceful spiritual atmosphere.",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bala+Kameshwar+Temple+Rewalsar"
   },
   {
     "name": "Mata Hanogi Devi Temple",
     "district": "Mandi",
     "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/Hanogi_Mata.jpg",
-    "history": "Legend suggests the lake was created when Rishi Prashar struck his rod into the ground.",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Hanogi_Mata+Temple+Kullu+HP"
+    "history": "Hanogi Mata Temple is a famous roadside temple between Mandi and Kullu where travelers stop for blessings.",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Hanogi+Mata+Temple"
   },
   {
-  "name": "Mata Bhimakali Devi Temple",
-  "district": "Shimla",
-  "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/bhimakali_temple.webp",
-  "history": "Bhimakali Temple in Sarahan is a famous shrine dedicated to Goddess Bhimakali, considered one of the 51 Shakti Peethas. Built in traditional Himalayan architecture, the temple is known for its spiritual power and beautiful mountain surroundings.",
-  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bhimakali+Temple+Sarahan"
-},
-{
-  "name": "Jai Bijlimahadev Temple",
-  "district": "Kullu",
-  "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/bijlimahadev.webp",
-  "history": "Bijli Mahadev Temple is dedicated to Lord Shiva and located on a hilltop in Kullu Valley. The temple is famous for a unique ritual where lightning strikes the Shiva Lingam, which priests later restore using butter.",
-  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bijli+Mahadev+Temple+Kullu"
-},
-{
-  "name": "Jai Baglamukhi Devi Temple",
-  "district": "Kangra",
-  "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/baglamukhi.jpeg",
-  "history": "Baglamukhi Temple in Kangra is dedicated to Goddess Baglamukhi, one of the ten Mahavidyas. Devotees visit this temple seeking victory, protection from enemies, and spiritual strength.",
-  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Baglamukhi+Temple+Kangra"
-}
+    "name": "Mata Bhimakali Devi Temple",
+    "district": "Shimla",
+    "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/bhimakali_temple.webp",
+    "history": "Bhimakali Temple in Sarahan is a famous shrine dedicated to Goddess Bhimakali, one of the 51 Shakti Peethas.",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bhimakali+Temple+Sarahan"
+  },
+  {
+    "name": "Jai Bijlimahadev Temple",
+    "district": "Kullu",
+    "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/bijlimahadev.webp",
+    "history": "Bijli Mahadev Temple is dedicated to Lord Shiva and is famous for lightning striking the Shiva Lingam.",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bijli+Mahadev+Temple+Kullu"
+  },
+  {
+    "name": "Jai Baglamukhi Devi Temple",
+    "district": "Kangra",
+    "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/baglamukhi.jpeg",
+    "history": "Baglamukhi Temple in Kangra is dedicated to Goddess Baglamukhi and is believed to grant victory and protection.",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Baglamukhi+Temple+Kangra"
+  }
 ]
