@@ -6,6 +6,13 @@
     "history": "Bhootnath Temple is one of the oldest and most famous temples in Mandi, Himachal Pradesh. It was built in 1527 by Raja Ajbar Sen, the founder of Mandi city.",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bhootnath+Temple+Mandi"
   },
+   {
+    "name": "Jai Tarna Temple (Shyama Kali)",
+    "district": "Mandi",
+    "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/tarnamata.jpg",
+    "history": "Baglamukhi Temple in Kangra is dedicated to Goddess Baglamukhi and is believed to grant victory and protection.",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Jai Tarna Temple (Shyama Kali)+Temple+Mandi"
+  },
   {
     "name": "Mata Hidimba Devi Temple",
     "district": "Manali",
@@ -75,5 +82,12 @@
     "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/baglamukhi.jpeg",
     "history": "Baglamukhi Temple in Kangra is dedicated to Goddess Baglamukhi and is believed to grant victory and protection.",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=Baglamukhi+Temple+Kangra"
+  },
+  {
+    "name": "Jai Trilokinath Temple",
+    "district": "Mandi  ",
+    "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/Triloknathtempl.jpg",
+    "history": "Baglamukhi Temple in Kangra is dedicated to Goddess Baglamukhi and is believed to grant victory and protection.",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Jai Trilokinath+Temple+Mandi"
   }
 ]
