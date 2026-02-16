@@ -35,6 +35,13 @@
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=Prashar+Lake+Temple"
   },
   {
+    "name": "Jai Mata Shikari devi Temple ",
+    "district": "Mandi  ",
+    "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/Shikarimata.jpg",
+    "history": "Baglamukhi Temple in Kangra is dedicated to Goddess Baglamukhi and is believed to grant victory and protection.",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Jai Mata Chamunda Devi+Temple+Mandi"
+  },
+  {
     "name": "Mata Shree Naina Devi Temple",
     "district": "Rewalsar",
     "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/nainamataji.jpeg",
