@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Snow Valley Resort",
+    "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/swon.avif",
+    "location": "Manali",
+    "price": "₹2500 / night",
+    "rating": "4.5"
+  },
+  {
+    "name": "Shimla Heritage Hotel",
+    "image": "IMAGE_URL",
+    "location": "Shimla",
+    "price": "₹3000 / night",
+    "rating": "4.2"
+  }
+]
