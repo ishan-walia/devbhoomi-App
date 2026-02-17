@@ -6,5 +6,17 @@
   {
     "name": "Shimla",
     "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/shimla.jpg"
+  },
+  {
+    "name": "Dharamshala",
+    "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/mandihp.jpg"
+  },
+  {
+    "name": "Mandi",
+    "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/mandihp.jpg"
+  },
+  {
+    "name": "Kullu",
+    "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220"
   }
 ]
