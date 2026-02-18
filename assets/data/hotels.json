@@ -19,5 +19,12 @@
     "location": "Shimla",
     "price": "₹3000 / night",
     "rating": "4.2"
+  },
+  {
+    "name": "Shimla Heritage Hotel",
+    "image": "https://raw.githubusercontent.com/ishan-walia/devbhoomi-App/main/assets/images/shingarmall.avif",
+    "location": "Shimla",
+    "price": "₹3000 / night",
+    "rating": "4.2"
   }
 ]
