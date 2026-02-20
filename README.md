@@ -10,7 +10,17 @@ The app showcases districts, temples, explore spots, hotels, and more in a clean
 ---
 
 ## 🚀 Features
+
 ### 🏠 Home
 - Overview of Himachal Pradesh
 - Featured districts
 - Beautiful grid layout
+
+### 🛕 Temples
+- Temple cards with image
+- Temple name & district
+- Temple detail page
+- Hero animation
+- Temple history
+- Open in Google Maps
+- Nearby hotels button
