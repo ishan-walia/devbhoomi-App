@@ -10,3 +10,7 @@ The app showcases districts, temples, explore spots, hotels, and more in a clean
 ---
 
 ## 🚀 Features
+### 🏠 Home
+- Overview of Himachal Pradesh
+- Featured districts
+- Beautiful grid layout
