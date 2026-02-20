@@ -36,3 +36,7 @@ The app showcases districts, temples, explore spots, hotels, and more in a clean
 - Booking integration (future)
 - Affiliate-ready system
 
+### 👤 Profile
+- App information
+- Developer info
+- Contact section
