@@ -30,3 +30,9 @@ The app showcases districts, temples, explore spots, hotels, and more in a clean
 - Mountains
 - Adventure spots
 - Scenic locations
+
+### 🏨 Hotels
+- Hotel listings
+- Booking integration (future)
+- Affiliate-ready system
+
