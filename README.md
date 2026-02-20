@@ -24,3 +24,9 @@ The app showcases districts, temples, explore spots, hotels, and more in a clean
 - Temple history
 - Open in Google Maps
 - Nearby hotels button
+
+### 🌄 Explore
+- Lakes
+- Mountains
+- Adventure spots
+- Scenic locations
