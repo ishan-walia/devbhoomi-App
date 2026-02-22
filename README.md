@@ -1,3 +1,5 @@
+![Flutter](https://img.shields.io/badge/Flutter-3.0-blue)
+![Status](https://img.shields.io/badge/Status-Active-green)
 # 🌄 DevBhoomi – Himachal Tourism Guide App
 
 DevBhoomi is a Flutter-based tourism guide app for Himachal Pradesh.  
