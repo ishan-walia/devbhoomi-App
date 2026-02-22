@@ -9,6 +9,12 @@ The app showcases districts, temples, explore spots, hotels, and more in a clean
 
 ---
 
+## 📸 Screenshots
+
+| Home | Temples | Explore | Hotels |
+|------|---------|----------|--------|
+| ![Home](screenshots/home.png) | ![Temples](screenshots/temples.png) | ![Explore](screenshots/explore.png) | ![Hotels](screenshots/hotels.png) |
+
 ## 🚀 Features
 
 ### 🏠 Home
