@@ -48,3 +48,7 @@ The app showcases districts, temples, explore spots, hotels, and more in a clean
 - App information
 - Developer info
 - Contact section
+
+## ⭐ Show Your Support
+
+If you like this project, give it a ⭐ on GitHub!
