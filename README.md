@@ -49,6 +49,12 @@ The app showcases districts, temples, explore spots, hotels, and more in a clean
 - Developer info
 - Contact section
 
+
+## 🎯 Purpose
+
+This project was built to promote tourism in Himachal Pradesh 
+and to practice Flutter UI design and app architecture.
+
 ## ⭐ Show Your Support
 
 If you like this project, give it a ⭐ on GitHub!
